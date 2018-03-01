@@ -7,7 +7,7 @@ class Task2 {
         double y;
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
-        System.out.print("Введите первое целое положительное число: ");
+        System.out.print("Введите число: ");
         double x = Double.parseDouble(reader.readLine());
 
         if (x > 1) {
