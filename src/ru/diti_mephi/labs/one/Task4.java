@@ -1,3 +1,5 @@
+package ru.diti_mephi.labs.one;
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 

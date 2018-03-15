@@ -1,3 +1,5 @@
+package ru.diti_mephi.labs.one;
+
 public class Task7 {
    public static void main(String[] args) {
        int result = 0;

@@ -1,3 +1,5 @@
+package ru.diti_mephi.labs.one;
+
 public class Task5 {
     public static void main(String[] args){
         final int A = 1;

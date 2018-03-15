@@ -1,3 +1,5 @@
+package ru.diti_mephi.labs.one;
+
 public class Task1 {
     public static void main(String[] args) {
         double x = 2;
