@@ -3,7 +3,7 @@ package ru.diti_mephi.labs.two;
 import java.util.ArrayList;
 import java.util.List;
 
-public class FromHexadecimalToBinaryAndAdecimal extends BinaryToOctalAndHexadecimal {
+public class FromHexadecimalToBinaryAndDecimal extends BinaryToOctalAndHexadecimal {
 
     public static void main(String[] args) {
         List<String> listA = new ArrayList<>();
